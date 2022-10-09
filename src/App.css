@@ -1,0 +1,21 @@
+.App {
+}
+.main-title {
+  text-align: center;
+}
+
+.editor-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.text-container {
+  margin: 20px 0;
+}
+
+.word:hover {
+  background-color: aquamarine;
+}
